@@ -1,0 +1,8 @@
+customtkinter
+pillow
+numpy
+opencv-python
+yt-dlp
+chat-downloader
+faster-whisper
+pyinstaller
